@@ -1,4 +1,4 @@
-module.expors = {
+module.exports = {
   "development": {
     "username": "root",
     "password": null,
